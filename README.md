@@ -3,7 +3,7 @@
 - 🌱 I’m constantly learning Machine learning and Deep Learning
 - 💞️ I’m trying to improve myself on the subjects of Computer Vision and Object Detection
 - I will be posting projects weekly.... Feel free to comment suggestions and the mistakes that i make
-- 📫 How to reach me ekremserdarozturk@hotmail.com
+- 📫 Contact: ekremserdarozturk@hotmail.com or https://www.linkedin.com/in/ekrem-%C3%B6zt%C3%BCrk-728701128/
 
 <!---
 ekrrems/ekrrems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
