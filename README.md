@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekrrems
-- 👀 I work as an AI Developer in the field of <b>Remote Sensing</b>
-- 🌱 I’m constantly learning Machine learning and Deep Learning
+- 👀 I work as Data Engineer in the field of <b>Remote Sensing</b>
+- 🌱 I put together data engineering with GIS applications
 - 💞️ I try to improve myself on the subjects of Computer Vision, Geographic Information Systems and Data Engineering
 - I will be posting projects biweekly....
 - 📫 Contact: ekremserdarozturk@hotmail.com or https://www.linkedin.com/in/ekremserdarozturk/
