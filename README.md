@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekrrems
-- 👀 I work as Data Engineer in the field of <b>Remote Sensing</b>
-- 🌱 I put together data engineering with GIS applications
-- 💞️ I try to improve myself on the subjects of Computer Vision, Geographic Information Systems and Data Engineering
+- 👀 I work as Computer Vision Engineer in the field of <b>Remote Sensing</b>
+- 🌱 I put together computer vision with GIS applications
+- 💞️ I try to improve myself on the subjects of Computer Vision, Geographic Information Systems and 3d Point Clouds
 - I will be posting projects biweekly....
 - 📫 Contact: ekremserdarozturk@hotmail.com or https://www.linkedin.com/in/ekremserdarozturk/
 
