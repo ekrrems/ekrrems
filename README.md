@@ -1,6 +1,6 @@
-# Hi there, I'm Ekrem! 👋
+# Hello there, I'm Ekrem! 👋
 
-I'm a Computer Vision Engineer specializing in **Remote Sensing** and passionate about combining computer vision with Geographic Information Systems (GIS). Currently pursuing my Master's degree with a focus on 3D Point Clouds.
+I'm a Computer Vision Engineer specializing in **Photogrammetry** and passionate about combining computer vision with 3D Models. Currently pursuing my Master's degree with a focus on 3D Point Clouds.
 
 ## About Me
 
