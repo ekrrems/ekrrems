@@ -6,7 +6,7 @@ I'm a Computer Vision Engineer specializing in **Photogrammetry** and passionate
 
 - 💻 I work as Computer Vision Developer.
 - 🌱 Continuously learning and exploring new advancements in my field.
-- 💞️ Seeking to improve my expertise in Computer Vision, 3D Point Clouds and AR/VR experiences.
+- 💞️ Seeking to improve my expertise in Computer Vision, 3D Point Clouds and Robotics.
 
 ## Connect with Me
 
